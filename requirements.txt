@@ -1,0 +1,8 @@
+bs4
+tqdm
+nltk
+numpy
+pandas
+gensim
+scikit-learn
+tensorflow

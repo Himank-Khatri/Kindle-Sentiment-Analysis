@@ -4,5 +4,6 @@ nltk
 numpy
 pandas
 gensim
+streamlit
 scikit-learn
 tensorflow
